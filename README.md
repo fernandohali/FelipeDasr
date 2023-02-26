@@ -48,7 +48,7 @@
    </a>
 </div>
 
-![Snake animation](https://github.com/FelipeDasr/FelipeDasr/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/FelipeDasr/FelipeDasr/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/felipedasr/count.svg" />  
